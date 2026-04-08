@@ -30,7 +30,7 @@ int main()
         scanf("%d", &numbers[Index]);
     }
     
-printf("NUMARUL MAXIM ESTE: %d\n", MaxNumber(max_number, numbers));
+printf("NUMARUL MAXIM ESTE: %d\n", MaxNumber(max_number, numbers))
 
     return 0;
 }
